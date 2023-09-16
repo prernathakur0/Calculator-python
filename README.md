@@ -1,2 +1,2 @@
 # Calculator-python
-Basic Calculator in python
+Basic Calculator  using  python programming
